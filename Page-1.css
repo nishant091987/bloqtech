@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/photo-1729892938603-ea99ccbb0c31.jpeg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/images/photo-1729892938603-ea99ccbb0c31.jpeg');
   background-position: 50% 50%;
 }
 
@@ -321,7 +321,7 @@
 
 .u-section-3 .u-image-1 {
   background-position: 50% 50%;
-  background-image: url("images/photo-1731770207534-4411fd273c9e.jpeg");
+  background-image: url("/images/photo-1731770207534-4411fd273c9e.jpeg");
   background-size: cover;
   min-height: 380px;
 }
@@ -332,7 +332,7 @@
 
 .u-section-3 .u-image-2 {
   background-position: 50% 50%;
-  background-image: url("images/photo-1732006358505-e2f6a623adc2.jpeg");
+  background-image: url("/images/photo-1732006358505-e2f6a623adc2.jpeg");
   background-size: cover;
   min-height: 380px;
 }
@@ -343,7 +343,7 @@
 
 .u-section-3 .u-image-3 {
   background-position: 50% 50%;
-  background-image: url("images/photo-1732029062012-9030cfd21549.jpeg");
+  background-image: url("/images/photo-1732029062012-9030cfd21549.jpeg");
   background-size: cover;
   min-height: 380px;
 }
@@ -1029,7 +1029,7 @@
 .u-section-6 .u-image-1 {
   width: 83px;
   height: 83px;
-  background-image: url("images/6adc50df.jpeg");
+  background-image: url("/images/6adc50df.jpeg");
   background-position: 50% 50%;
   margin: 30px auto 0;
 }
@@ -1072,7 +1072,7 @@
 .u-section-6 .u-image-3 {
   width: 83px;
   height: 83px;
-  background-image: url("images/e610d339.jpeg");
+  background-image: url("/images/e610d339.jpeg");
   background-position: 50% 50%;
   margin: 30px auto 0;
 }
@@ -1416,7 +1416,7 @@
 
 .u-section-8 .u-image-1 {
   min-height: 286px;
-  background-image: url("images/photo-1725113113972-4f4dfe143776.jpeg");
+  background-image: url("/images/photo-1725113113972-4f4dfe143776.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1426,7 +1426,7 @@
 
 .u-section-8 .u-image-2 {
   min-height: 310px;
-  background-image: url("images/photo-1733411676628-f1255dd1a336.jpeg");
+  background-image: url("/images/photo-1733411676628-f1255dd1a336.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1689,7 +1689,7 @@
 
 .u-section-10 .u-image-1 {
   min-height: 500px;
-  background-image: url("images/photo-1733395445556-de9323e37a00.jpeg");
+  background-image: url("/images/photo-1733395445556-de9323e37a00.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1726,7 +1726,7 @@
 
 .u-section-10 .u-image-2 {
   min-height: 250px;
-  background-image: url("images/photo-1731582338361-f5d4101e3a25.jpeg");
+  background-image: url("/images/photo-1731582338361-f5d4101e3a25.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1736,7 +1736,7 @@
 
 .u-section-10 .u-image-3 {
   min-height: 250px;
-  background-image: url("images/photo-1733723586975-9aaae6983459.jpeg");
+  background-image: url("/images/photo-1733723586975-9aaae6983459.jpeg");
   background-position: 50% 50%;
 }
 
@@ -2933,7 +2933,7 @@
     width: 340px;
   }
 } .u-section-13 {
-  background-image: url("images/photo-1732979887702-40baea1c1ff6.jpeg");
+  background-image: url("/images/photo-1732979887702-40baea1c1ff6.jpeg");
   background-position: 50% 50%;
 }
 
